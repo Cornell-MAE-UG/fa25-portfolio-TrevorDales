@@ -8,9 +8,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Trevor Dales
+title                    : Trevor Dales Portfolio
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Trevor Dales
 name                     : Trevor Dales
 description              : Trevor Dales - Projects and CV 
 baseurl                  : "/fa25-portfolio-TrevorDales" # Set this to your repo name 
